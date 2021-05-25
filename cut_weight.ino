@@ -24,6 +24,7 @@ Adafruit_SH1106 display(OLED_RESET);
 #define DELTAY 2
 
 
+
 #define LOGO16_GLCD_HEIGHT 16 
 #define LOGO16_GLCD_WIDTH  16 
 static const unsigned char PROGMEM logo16_glcd_bmp[] =
